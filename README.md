@@ -1,6 +1,6 @@
 # AMP
 This is an app management platform
 
-* Server：nodejs
-* Client: reactjs
-* DataBase: mysql+mogodb
+* Server：NodeJs
+* Client: ReactJs
+* DataBase: MySql + MongoDB
